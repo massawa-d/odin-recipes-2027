@@ -1,1 +1,1 @@
-# odin-recipes-2027
+A HTML only recipes project
