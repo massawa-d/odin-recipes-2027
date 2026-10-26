@@ -1,3 +1,22 @@
-body {
+.home-page {
     background-color: aliceblue;
+}
+
+.home-page,
+.fried-rice,
+.guacamole,
+.pumpkin-soup {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.fried-rice {
+    background-color: #F59C27;
+}
+
+.guacamole {
+    background-color: #ABE398;
+}
+
+.pumpkin-soup {
+    background-color: #DE8604;
 }
