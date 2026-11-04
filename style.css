@@ -20,3 +20,9 @@
 .pumpkin-soup {
     background-color: #DE8604;
 }
+
+.rice-description {
+    border: 4px solid palevioletred;
+    padding: 8px;
+    margin: 28px;
+}
